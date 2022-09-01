@@ -66,7 +66,7 @@ function prevSlide(){
 }
 
 function activeslide(element){
-    slide.style.backgroundImage = `url(https://andremugabo.github.io/rweam/images/${element})`;
+    slide.style.backgroundImage = `url(https://andremugabo.github.io/rweam/images/gallery/${element})`;
 }
 console.log(background.length);
 // prevSlide();
