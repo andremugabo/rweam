@@ -66,7 +66,7 @@ function prevSlide(){
 }
 
 function activeslide(element){
-    slide.style.backgroundImage = `url(/images/${element})`;
+    slide.style.backgroundImage = `url(/images/gallery/${element})`;
 }
 console.log(background.length);
 // prevSlide();
